@@ -18,8 +18,12 @@ a:hover, a:focus {
 	color: #027db3;
 }
 
-.main-nav, 
-.service-icon, 
+.main-nav{
+  background-color:#1a6632d4;
+           background-image: url(../../img/tour-bg.png)
+         }
+
+
 .progress-bar.progress-bar-primary, 
 .single-table.featured, 
 .btn.btn-primary, 
@@ -34,7 +38,8 @@ a:hover, a:focus {
 .left-control:hover, 
 .right-control:hover, 
 .folio-overview a:hover {
-  background-color:#028fcc;
+  background-color:#1a6632d4;
+  background-image: url(../../img/tour-bg.png)
 }
 
 .twitter-left-control:hover, 
