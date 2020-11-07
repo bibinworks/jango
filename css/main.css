@@ -132,6 +132,13 @@ section {
   display: inline-block;
 }
 
+.item {
+background: url(../img/bg.jpg) #1a6632d4 no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 /*************************
 ********Home CSS**********
