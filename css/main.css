@@ -2,6 +2,21 @@
 /*************************
 *******Typography******
 **************************/
+.disc {
+    width:75%;
+    margin:0 auto;
+    color:#fff;
+    text-transform: initial;
+}
+
+.cruiseimg{
+    float:left;
+    margin-right:10px;
+
+}
+.fullline{
+    width:100%;
+}
 
 body {
   font-family: 'Open Sans', sans-serif;
